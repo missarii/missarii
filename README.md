@@ -1,116 +1,53 @@
-<!-- ========================================= -->
-<!--        MISSARI | 2026 TREND README        -->
-<!-- ========================================= -->
-
-<h1 align="center">💡 Missari</h1>
-
+<h1 align="center">🚀 Missari</h1>
 <p align="center">
-  <b>Co-Founder @ Daral AI</b> • <b>CTO @ Orange University LLC</b><br/>
-  Software Architect • AI • Cloud • Distributed Systems
+  Co-Founder @ Daral AI • CTO @ Orange University LLC<br/>
+  Software Architect | AI | Cloud | Distributed Systems
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3500&pause=700&color=00fff7&center=true&vCenter=true&width=750&lines=Architecting+Scalable+Intelligence.;Building+AI-Powered+Systems.;Cloud-Native+%26+Distributed+Design.;Engineering+for+Impact." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=2500&pause=700&color=00fff7&center=true&vCenter=true&width=600&lines=Architecting+Intelligent+Systems.;Building+Cloud-Native+Apps.;Scaling+AI+Platforms." />
 </p>
 
 ---
 
-## 🧠 About Me
-
-<div align="center" style="backdrop-filter: blur(15px); background: rgba(0,0,0,0.3); padding: 20px; border-radius: 20px;">
-  
-```yaml
-name: Missari
-role: Software Architect & Tech Leader
-company:
-  - Co-Founder @ Daral AI
-  - CTO @ Orange University LLC
-focus:
-  - Artificial Intelligence Systems
-  - Cloud-Native Architecture
-  - Distributed Computing
-  - Scalable SaaS Platforms
-mission: "Design systems that scale, adapt, and create real-world impact."
-```
-
-I design **high-performance, distributed systems** combining AI intelligence and cloud scalability.
-</div>
-
----
-
-## ⚡ Tech Stack
-
+## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,express,mongodb,docker,react,linux,git,github,aws,kubernetes,graphql" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,express,mongodb,docker,react,aws" />
 </p>
 
 ---
 
-## 🌐 Roles & Leadership
-
-### 🔥 Co-Founder — Daral AI
-> Building AI-driven platforms with distributed architecture & intelligent automation.
-
-### 🎓 CTO — Orange University LLC
-> Leading infrastructure strategy, product architecture, and scalable system engineering.
-
----
-
-## 🏗 Architecture Philosophy
-
-- 🌌 Scale-first design  
-- 🧩 Modular & clean architecture  
-- ⚡ Automation & CI/CD workflows  
-- 🤖 AI-enhanced applications  
-- 🔐 Secure & resilient systems  
-
-> Systems should be **engineered intentionally**, not just built.
-
----
-
-## 📊 GitHub Analytics
-
+## 🔥 About Me
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+  I build <b>AI-powered, cloud-native, and scalable systems</b> with clean architecture and real-world impact.
 </p>
 
 ---
 
-## 🤖 System Design & AI Focus
-
-```mermaid
-flowchart LR
-    A[Users] --> B[Cloud Infrastructure]
-    B --> C[Microservices Layer]
-    C --> D[AI Engine & Automation]
-    D --> E[Distributed Database]
-    E --> F[Real-Time Analytics & Insights]
-```
+## ⚡ Quick Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150" />
+</p>
 
 ---
 
-## 🌟 What I Build
-
-- AI-powered SaaS platforms  
-- Autonomous AI systems  
-- Cloud-native distributed apps  
-- Real-time high-performance systems  
-
----
-
-## 📫 Connect & Collab
-
-Open for discussions in:
+## 🤖 What I Build
 - AI & LLM systems  
-- Distributed systems & cloud infrastructure  
-- Startup tech strategy  
-- Scalable backend architecture  
+- Cloud-native microservices  
+- Real-time distributed apps  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00fff7&height=120&section=footer"/>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" />
+</p>
+
+---
+
+## 📫 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> •
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">Twitter</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
