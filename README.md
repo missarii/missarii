@@ -1,78 +1,97 @@
 ![Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
-<h1 align="center">Missari Ahil</h1>
-<h3 align="center">
-Co-Founder @ Daral AI • CTO @ Orange University LLC <br/>
-Architecting Scalable AI Systems & Cloud-Native Distributed Platforms
-</h3>
+<h1 align="center">🎮 MISSARI AHIL</h1>
+<h3 align="center">⚔️ Co-Founder @ Daral AI • 🧠 CTO @ Orange University LLC</h3>
+<h4 align="center">🚀 Architecting Scalable AI Systems & Cloud-Native Distributed Platforms</h4>
 
 ---
 
-## 🚀 Executive Profile
+## 🕹 PLAYER PROFILE
 
-Technology leader building intelligent, scalable, and production-ready AI systems.
-
-As **Co-Founder of Daral AI** and **CTO of Orange University LLC**,  
-I design distributed architectures, lead AI-driven product development,  
-and engineer cloud-native platforms built for long-term scale.
-
----
-
-## 🧠 Core Expertise
-
-- 🤖 Generative AI & LLM-based Applications  
-- 🏗 Cloud-Native Distributed Systems  
-- ⚙️ Microservices & Event-Driven Architecture  
-- 🔐 Scalable Backend Engineering  
-- 📊 Performance Engineering & System Optimization  
-- 🚀 DevOps, CI/CD & Infrastructure Automation  
+```yaml
+Name: Missari Ahil
+Role: AI Systems Architect
+Class: Cloud-Native Strategist
+Guild: Daral AI
+Rank: CTO
+Location: Sri Lanka 🌍
+Special Ability: Turning Ideas into Scalable AI Products
+```
 
 ---
 
-## 🛠 Technology Stack
+## 🎯 ACTIVE SKILLS
 
-### AI & Data
-Python • LLMs • GenAI Systems • Prompt Engineering • AI Orchestration
-
-### Backend & Architecture
-Node.js • Express • FastAPI • REST APIs • Microservices • WebSockets
-
-### Frontend
-React • Next.js • Modern JavaScript Ecosystem
-
-### Cloud & DevOps
-Docker • CI/CD Pipelines • Distributed Deployment Strategies
-
-### Databases
-MongoDB • PostgreSQL • Redis
+🧠 GenAI & LLM Systems  
+⚙️ Distributed Microservices  
+☁️ Cloud-Native Architecture  
+🚀 AI-Powered SaaS Platforms  
+🔐 DevOps & CI/CD Automation  
+📡 Real-Time Event-Driven Systems  
 
 ---
 
-## 🌍 Current Focus
+## 🛠 TECH INVENTORY
 
-- Architecting scalable AI-native platforms  
-- Distributed system design for high-traffic environments  
-- AI-powered SaaS infrastructure  
-- Cloud performance optimization  
+⚔️ Languages  
+`Python` `JavaScript` `C` `Java` `SQL`
+
+🛡 Backend Arsenal  
+`Node.js` `Express` `FastAPI` `REST APIs`
+
+🎮 Frontend Engine  
+`React` `Next.js`
+
+☁️ Cloud & Deployment  
+`Docker` `CI/CD` `Microservices` `Distributed Systems`
+
+🗄 Databases  
+`MongoDB` `PostgreSQL` `Redis`
+
+---
+
+## 🧩 CURRENT QUESTS
+
+🔥 Building AI-Native Platforms  
+🔥 Scaling Distributed Systems  
+🔥 Optimizing High-Performance Architectures  
+🔥 Designing Future-Ready Cloud Infrastructure  
 
 ---
 
-## 📈 Leadership Philosophy
+## 🏆 ACHIEVEMENTS UNLOCKED
 
-> Build systems that scale beyond the founder.  
-> Engineer products that solve real-world problems.  
-> Automate what others manually repeat.
+🏅 Co-Founder – Daral AI  
+🏅 CTO – Orange University LLC  
+🏅 AI Full Stack Architect  
+🏅 GenAI System Builder  
+
+---
+
+## 📊 STATS
+
+```bash
+AI Power        ██████████ 95%
+System Design   ██████████ 93%
+Scalability     ██████████ 96%
+Problem Solving ██████████ 97%
+```
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 MULTIPLAYER MODE
 
-- 💼 LinkedIn: https://linkedin.com/in/missari-ahil  
-- 📧 Email: missariahil@gmail.com  
-- 🌐 YouTube: https://www.youtube.com/@missariahil  
+💼 LinkedIn → https://linkedin.com/in/missari-ahil  
+📧 Email → missariahil10@gmail.com
 
 ---
+
+<h3 align="center">⚡ GAME PHILOSOPHY</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=missariahil&label=Profile%20Views&color=0e75b6&style=flat" />
+"If it doesn't scale, it's just a side quest."
 </p>
+
+---
+
+<h3 align="center">🟢 STATUS: BUILDING THE FUTURE</h3>
