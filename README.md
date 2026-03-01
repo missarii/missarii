@@ -1,48 +1,53 @@
-# 🏛️ Missari
-**Co-Founder @ Daral AI • CTO @ Orange University LLC**
-*Architecting Scalable AI Systems & Cloud-Native Distributed Platforms*
+![Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
----
+<h1 align="center">Hi 👋, I'm Missari Ahil</h1>
+<h3 align="center">A passionate GenAI Full Stack Developer from Sri Lanka</h3>
 
-### ⚡ Executive Summary
-I specialize in bridging the gap between high-level AI research and production-grade cloud infrastructure. With a focus on **Distributed Systems** and **Clean Architecture**, I build resilient, high-throughput platforms that scale with business needs.
+<img align="right" alt="Java" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
-- 🏗️ **Architecting** Intelligent Multi-Agent Systems
-- ☁️ **Scaling** Cloud-Native Microservices (AWS/Docker/K8s)
-- 🚀 **Leading** Technical Vision as CTO & Co-Founder
-
----
-
-### 🛠️ Core Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
-
----
-
-### 🤖 Specialized Domains
-
-* **AI Orchestration:** LLM Fine-tuning, RAG (Retrieval-Augmented Generation) pipelines, and Agentic Workflows.
-* **System Design:** Designing event-driven architectures and distributed databases for high-availability systems.
-* **DevOps/SRE:** CI/CD automation, container orchestration, and cloud infrastructure optimization.
-
----
-
-### 📊 GitHub Insights
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="180" />
+  <img src="https://komarev.com/ghpvc/?username=missariahil&label=Profile%20views&color=0e75b6&style=flat" alt="missariahil" />
 </p>
 
----
+### 👋 About Me
 
-### 🤝 Let's Connect
+- 🛠️ I’m currently working on **C**, **JavaScript**, **JMeter**, and **GenAI-based applications**
+- 🌱 I’m currently learning **Java**, **C**, **Python**, **SQL**, **PHP**, **JavaScript**, **React**, **AI/ML**, **LLMs**, and **DevOps tools** like **Docker** and **CI/CD pipelines**
+- 🎓 I’m a Software Engineering undergraduate at **The Open University of Sri Lanka**
+- 🤖 I’m building projects in **GenAI Applications**, **Smart Agriculture using IoT**, **Tourism & Hospitality**, and **AI-powered Web Apps**
+- 💬 Ask me about **GenAI Full Stack Development**, **AI tools for students**, **DevOps roadmap**, and **Testing with Selenium & JMeter**
+- 📫 Reach me at: **missariahil@gmail.com**
+- ⚡ Fun fact: **I believe GenAI + Coding = Future Problem Solving**
+
+<img align="right" alt="robot" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/missari-ahil" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/missari.ahil" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/missari.ahil" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@missariahil" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/></a>
 </p>
