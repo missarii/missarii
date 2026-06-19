@@ -62,9 +62,9 @@ Special Ability: Turning Ideas into Scalable AI Products
 ## 🏆 ACHIEVEMENTS UNLOCKED
 
 🏅 Co-Founder – Daral AI  
-🏅 CTO – Mi Stack 
-🏅 AI Full Stack Architect  
+🏅 CTO – Mi Stack  
 🏅 GenAI System Builder  
+🏅 AI Full Stack Architect 
 
 ---
 
