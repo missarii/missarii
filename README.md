@@ -62,7 +62,7 @@ Special Ability: Turning Ideas into Scalable AI Products
 ## 🏆 ACHIEVEMENTS UNLOCKED
 
 🏅 Co-Founder – Daral AI  
-🏅 CTO – Orange University LLC  
+🏅 CTO – Mi-Stack 
 🏅 AI Full Stack Architect  
 🏅 GenAI System Builder  
 
