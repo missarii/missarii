@@ -143,9 +143,6 @@ DevOps          ██████████ 90%
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
 </p>
 
-<p align="center">
-"If it doesn't scale, it's just a side quest."
-</p>
 
 ---
 
