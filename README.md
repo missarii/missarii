@@ -1,8 +1,8 @@
 ![Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
-<h1 align="center">🎮 MISSARI AHIL</h1>
+<h1 align="center">MISSARI AHIL</h1>
 <h3 align="center"> Co-Founder @ Daral Live | CTO @ Mi-Stack</h3>
-<h4 align="center">🚀 Architecting Scalable AI Systems & Cloud-Native Distributed Platforms</h4>
+<h4 align="center">Architecting Scalable AI Systems & Cloud-Native Distributed Platforms</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Systems+Architect;Cloud-Native+Strategist;Full-Stack+Engineer;Open+Source+Contributor;Building+the+Future" alt="Typing SVG" />
