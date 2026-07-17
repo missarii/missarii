@@ -117,7 +117,7 @@ DevOps          ██████████ 90%
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/94721101001">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -127,7 +127,7 @@ DevOps          ██████████ 90%
 
 <p align="center">
   <a href="assets/snake-game.html" target="_blank">
-    <img src="https://img.shields.io/badge/🐍-Play%20Snake%20Game-00f7ff?style=for-the-badge&labelColor=0d1117&color=00f7ff" />
+    <img src="https://img.shields.io/badge/🐍_Play_Snake_Game-00d4ff?style=for-the-badge&labelColor=0d1117&color=00d4ff" />
   </a>
 </p>
 
