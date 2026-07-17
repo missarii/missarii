@@ -105,14 +105,6 @@ Cloud Native    ██████████ 92%
 DevOps          ██████████ 90%
 ```
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=missarii&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=missarii&layout=compact&langs_count=8&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=missarii&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -142,30 +134,6 @@ DevOps          ██████████ 90%
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=missarii&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## 🎵 Now Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=missari&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
-</p>
-
----
-
-## 🏅 Badges & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=missarii&theme=radical&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
-
----
-
-## 👁️ Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=missarii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
