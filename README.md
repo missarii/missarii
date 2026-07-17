@@ -125,33 +125,12 @@ DevOps          ██████████ 90%
 
 ## 🐍 Contribution Graph
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=missarii&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" />
+</p>
 
-<!-- Glow effect container -->
-<div style="display: inline-block; padding: 3px; border-radius: 20px; background: linear-gradient(135deg, #00f7ff, #7b2ff7, #ff00e4, #00f7ff); background-size: 300% 300%; animation: gradientShift 4s ease infinite;">
-  <div style="background: #0d1117; border-radius: 18px; padding: 20px 10px 10px 10px; box-shadow: 0 0 40px rgba(0, 247, 255, 0.15), inset 0 0 60px rgba(0, 0, 0, 0.5);">
-    
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=missarii&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=COMMIT%20ACTIVITY%20HEATMAP&radius=12" width="95%" />
-
-  <br><br>
-  
-
-  </div>
-</div>
-
-<!-- Snake animation -->
-<br>
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-
-</div>
-
-<style>
-@keyframes gradientShift {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+> *"This most beautiful system of the sun, planets, and comets, could only proceed from the counsel and dominion of an intelligent and powerful Being."*
+> — **Isaac Newton**
 
 ---
 
