@@ -123,13 +123,7 @@ DevOps          ██████████ 90%
 
 ---
 
-## 🐍 Snake Game
-
-<p align="center">
-  <a href="assets/snake-game.html" target="_blank">
-    <img src="https://img.shields.io/badge/🐍_Play_Snake_Game-00d4ff?style=for-the-badge&labelColor=0d1117&color=00d4ff" />
-  </a>
-</p>
+## 🐍 Snake
 
 <p align="center">
   <a href="assets/snake-game.html" target="_blank">
