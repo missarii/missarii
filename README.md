@@ -16,6 +16,9 @@
 Name: Missari Ahil
 Role: Software Architect
 Class: Cloud-Native Strategist
+Email: missariahil10@gmail.com
+LinkedIn: www.linkedin.com/in/missari/
+WhatsApp: +94721101001
 ```
 
 ---
