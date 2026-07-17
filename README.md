@@ -135,12 +135,6 @@ DevOps          ██████████ 90%
 
   <br><br>
   
-  <!-- Contribution stats row -->
-  <p>
-    <img src="https://img.shields.io/badge/🔥-Total%20Contributions-0d1117?style=flat-square&labelColor=0d1117&color=00f7ff" />
-    <img src="https://img.shields.io/badge/📅-Last%20Year-0d1117?style=flat-square&labelColor=0d1117&color=7b2ff7" />
-    <img src="https://img.shields.io/badge/⚡-Activity%20Level-0d1117?style=flat-square&labelColor=0d1117&color=ff00e4" />
-  </p>
 
   </div>
 </div>
