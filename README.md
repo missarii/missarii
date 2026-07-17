@@ -122,9 +122,6 @@ DevOps          ██████████ 90%
 </p>
 
 ---
-
-## 🐍 Snake
-
 <p align="center">
   <a href="assets/snake-game.html" target="_blank">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating food animation" />
