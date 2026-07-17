@@ -17,10 +17,9 @@ Name: Missari Ahil
 Role: Software Architect
 Height: 175 cm
 Vision: 0.00 D 
-Glasses: None
-Dominant Hand: Right-Handed Coder 
 Tattoo: None
 Dopamine Source: Coding
+Dominant Hand: Right-Handed Coder 
 ```
 
 ---
