@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
-<h1 align="center">MISSARI AHIL</h1>
+<h1 align="center">MISSARI</h1>
 <h3 align="center"> Co-Founder @ Daral Live | CTO @ Mi-Stack</h3>
 <h4 align="center">Architecting Scalable AI Systems & Cloud-Native Distributed Platforms</h4>
 
