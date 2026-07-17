@@ -5,7 +5,7 @@
 <h4 align="center">Architecting Scalable AI Systems & Cloud-Native Distributed Platforms</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=AI+Systems+Architect;Cloud-Native+Strategist;Full-Stack+Engineer;Open+Source+Contributor;Building+the+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Systems+Architect;Cloud-Native+Strategist;Full-Stack+Engineer;Open+Source+Contributor;Building+the+Future" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,9 +15,6 @@
 ```yaml
 Name: Missari Ahil
 Role: Software Architect
-Email: missariahil10@gmail.com
-LinkedIn: www.linkedin.com/in/missari/
-WhatsApp: +94721101001
 ```
 
 ---
