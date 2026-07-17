@@ -14,12 +14,8 @@
 
 ```yaml
 Name: Missari Ahil
-Role: AI Systems Architect
+Role: Software Architect
 Class: Cloud-Native Strategist
-Guild: Daral Live
-Rank: CTO
-Location: United Arab Emirates / Sri Lanka 🌍
-Special Ability: Turning Ideas into Scalable AI Products
 ```
 
 ---
