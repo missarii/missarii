@@ -123,14 +123,23 @@ DevOps          ██████████ 90%
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Snake Game
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=missarii&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" />
+  <a href="assets/snake-game.html" target="_blank">
+    <img src="https://img.shields.io/badge/🐍-Play%20Snake%20Game-00f7ff?style=for-the-badge&labelColor=0d1117&color=00f7ff" />
+  </a>
 </p>
 
-> *"This most beautiful system of the sun, planets, and comets, could only proceed from the counsel and dominion of an intelligent and powerful Being."*
-> — **Isaac Newton**
+<p align="center">
+  <a href="assets/snake-game.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating food animation" />
+  </a>
+</p>
+
+<p align="center">
+  <b>⬆ ⬇ ⬅ ➡</b> &nbsp;or&nbsp; <b>W A S D</b> &nbsp;—&nbsp; Eat the food, grow longer, don't crash!
+</p>
 
 ---
 
