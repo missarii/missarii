@@ -91,6 +91,12 @@ Special Ability: Turning Ideas into Scalable AI Products
 🏅 AI Full Stack Architect  
 🏅 Cloud Infrastructure Expert  
 🏅 Open Source Contributor  
+🏅 🥇 Hackathon Champion – Singapore (AI Innovation Challenge)  
+🏅 🥇 1st Place – Malaysia Tech Summit (Best Startup Pitch)  
+🏅 🥇 Winner – Germany International Hackathon (Cloud & AI Track)  
+🏅 🏆 ASEAN Youth Innovation Award – Singapore  
+🏅 🏆 Global Tech Excellence Trophy – Germany  
+🏅 🌏 Represented Sri Lanka at International Tech Competitions  
 
 ---
 
