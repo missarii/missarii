@@ -72,7 +72,7 @@ DevOps          ██████████ 90%
 
 ---
 
-## 🌐 MULTIPLAYER MODE
+## 🌐 CONTACT
 
 <p align="center">
   <a href="https://linkedin.com/in/missari">
