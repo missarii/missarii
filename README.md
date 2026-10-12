@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=650&height=60&lines=%E2%9F%A2+AI+SYSTEMS+ARCHITECT;%E2%9A%A1+CLOUD-NATIVE+ENGINEER;%E2%97%88+FULL-STACK+DEVELOPER;%E2%9F%90+OPEN-SOURCE+BUILDER;%E2%96%B6+ENGINEERING+THE+FUTURE" alt="Futuristic AI Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=55&lines=software-architect.ts;%3E+designing+distributed+systems;%3E+engineering+intelligent+solutions;%3E+shipping+production-ready+software;%3E+always+building.+always+learning." alt="Developer Terminal Animation" />
 </p>
 
 
