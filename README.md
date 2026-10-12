@@ -21,7 +21,7 @@ Operating System: Arch Linux 🐧
 Dominant Hand: Right-Handed Coder 🖱️
 Coding Motto: First, Make It Work. Then, Make It Scale 
 
-‧˚🐾୭ ˚. ᵎᵎ
+‧˚🐾୭‧₊ᵎᵎ🍒⋅°✮ᵎᵎ⋆.°🦋⋆❅🦌*°⋆❥──★˙🎸̟!! ๋੭
 
 ```
 
