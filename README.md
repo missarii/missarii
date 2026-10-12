@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=55&lines=software-architect.ts;%3E+designing+distributed+systems;%3E+engineering+intelligent+solutions;%3E+shipping+production-ready+software;%3E+always+building.+always+learning." alt="Developer Terminal Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=55&lines=Software-Architect.ts;%3E+Designing+Distributed+Systems;%3E+Engineering+Intelligent+Solutions;%3E+Shipping+Production-Ready+Software;%3E+Always+Building.+Always+Learning." alt="Developer Terminal Animation" />
 </p>
 
 
