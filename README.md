@@ -4,9 +4,11 @@
 <h3 align="center"> Co-Founder @ Daral Live | CTO @ Mi-Stack</h3>
 <h4 align="center">Architecting Scalable AI Systems & Cloud-Native Distributed Platforms</h4>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Systems+Architect;Cloud-Native+Strategist;Full-Stack+Engineer;Open+Source+Contributor;Building+the+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=650&height=60&lines=%E2%9F%A2+AI+SYSTEMS+ARCHITECT;%E2%9A%A1+CLOUD-NATIVE+ENGINEER;%E2%97%88+FULL-STACK+DEVELOPER;%E2%9F%90+OPEN-SOURCE+BUILDER;%E2%96%B6+ENGINEERING+THE+FUTURE" alt="Futuristic AI Animation" />
 </p>
+
 
 ---
 
