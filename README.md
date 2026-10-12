@@ -20,9 +20,37 @@ Vision: 0.00 D
 Tattoo: None
 Dopamine Source: Coding
 Dominant Hand: Right-Handed Coder 
+<right alin>
+Operating System: Arch Linux 🐧
 ```
 
+
+
 ---
+
+## 🕹 PLAYER PROFILE
+
+<div align="left">
+
+```yaml
+Name: Missari Ahil
+Role: Software Architect
+Height: 175 cm
+Vision: 0.00 D
+Tattoo: None
+Dopamine Source: Coding
+Dominant Hand: Right-Handed Coder
+```
+
+</div>
+
+<div align="right">
+
+```yaml
+Operating System: Arch Linux 🐧
+```
+
+</div>
 
 ## 🛠 TECH INVENTORY
 
