@@ -13,44 +13,21 @@
 ## 🕹 PLAYER PROFILE
 
 ```yaml
-Name: Missari Ahil
-Role: Software Architect
-Height: 175 cm
-Vision: 0.00 D 
-Tattoo: None
-Dopamine Source: Coding
-Dominant Hand: Right-Handed Coder 
-<right alin>
-Operating System: Arch Linux 🐧
-```
 
+Name: Missari Ahil 🌿
+Role: Software Architect ⚙️
+Main Weapon: Keyboard ⌨️
+Operating System: Arch Linux 🐧
+Dominant Hand: Right-Handed Coder 🖱️
+Coding Motto: First, Make It Work. Then, Make It Scale 
+
+‧˚🐾୭ ˚. ᵎᵎ
+
+```
 
 
 ---
 
-## 🕹 PLAYER PROFILE
-
-<div align="left">
-
-```yaml
-Name: Missari Ahil
-Role: Software Architect
-Height: 175 cm
-Vision: 0.00 D
-Tattoo: None
-Dopamine Source: Coding
-Dominant Hand: Right-Handed Coder
-```
-
-</div>
-
-<div align="right">
-
-```yaml
-Operating System: Arch Linux 🐧
-```
-
-</div>
 
 ## 🛠 TECH INVENTORY
 
