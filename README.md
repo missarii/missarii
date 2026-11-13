@@ -94,7 +94,7 @@ Problem Solving         ██████████ 97%
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/94721101001" target="_blank" title="WhatsApp">
-    <img src="assets/whatsapp-logo.png" width="72" height="72" alt="WhatsApp" />
+    <img src="assets/whatsapp-logo.png" width="72" height="80" alt="WhatsApp" />
   </a>
 </p>
 
