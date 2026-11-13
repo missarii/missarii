@@ -1,9 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
 <h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=2g2eqiqXbklO&format=png&color=000000" width="42" height="42" alt="star" />
-  &nbsp;MISSARI&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=2g2eqiqXbklO&format=png&color=000000" width="42" height="42" alt="star" />
+  MISSARI
 </h1>
 
 <h3 align="center">Technology Entrepreneur | Software Architect | AI Systems Engineer</h3>
