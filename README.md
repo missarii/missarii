@@ -65,13 +65,14 @@ Coding Motto: First, Make It Work. Then, Make It Scale
 ## 📊 STATS
 
 ```bash
-AI Agents & MCP     ██████████ 96%
-System Architecture ██████████ 95%
-Backend Engineering ██████████ 94%
-Cloud & DevOps      ██████████ 93%
-Full-Stack          ██████████ 92%
-Model Training      ██████████ 90%
-Problem Solving     ██████████ 97%
+Software Architecture   ██████████ 96%
+Backend Engineering     ██████████ 95%
+AI Systems & Agents     ██████████ 94%
+Model Training & ML     ██████████ 92%
+DevOps & Cloud Native   ██████████ 93%
+Full-Stack Development  ██████████ 91%
+System Design           ██████████ 95%
+Problem Solving         ██████████ 97%
 ```
 
 ---
@@ -80,15 +81,15 @@ Problem Solving     ██████████ 97%
 
 <p align="center">
   <a href="https://www.linkedin.com/in/missari" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" style="border-radius:50%;" />
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="52" height="52" alt="LinkedIn" style="border-radius:50%;" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:missariahil10@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Gmail" style="border-radius:50%;" />
+  <a href="mailto:missariahil10@gmail.com" title="Gmail">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="52" height="52" alt="Gmail" style="border-radius:50%;" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/94721101001" target="_blank" title="WhatsApp">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="48" height="48" alt="WhatsApp" style="border-radius:50%;" />
+    <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" width="52" height="52" alt="WhatsApp" style="border-radius:50%;" />
   </a>
 </p>
 
