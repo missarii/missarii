@@ -6,7 +6,7 @@
 <p align="center"><strong>AI Agents · MCP · Cloud & Distributed Systems</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=55&lines=Software-Architect.ts;%3E+Designing+Distributed+Systems;%3E+Engineering+Intelligent+Solutions;%3E+Building+AI+Agents+%26+MCP;%3E+Always+Building.+Always+Learning." alt="Developer Terminal Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=780&height=55&lines=Software+Architect+%7C+AI+Systems+Engineer;%3E+Building+AI+Agents+%26+MCP+Servers;%3E+Designing+Distributed+%26+Cloud-Native+Systems;%3E+Full-Stack+%2B+Backend+%2B+DevOps+%2B+ML;Always+Building.+Always+Learning." alt="Developer Terminal Animation" />
 </p>
 
 ---
@@ -40,37 +40,38 @@ Coding Motto: First, Make It Work. Then, Make It Scale
 </p>
 
 ### ⚔️ Languages
-`Python` `TypeScript` `JavaScript` `Go` `Rust` `C` `Java` `SQL` `GraphQL` `Bash`
+`Python` `TypeScript` `JavaScript` `Go` `Rust` `C` `C++` `Java` `SQL` `GraphQL` `Bash` `Shell`
 
-### 🛡 Backend Arsenal
-`Node.js` `Express` `FastAPI` `Django` `Gin` `REST APIs` `gRPC` `GraphQL` `WebSockets`
+### 🛡 Backend & APIs
+`Node.js` `Express` `FastAPI` `Django` `Flask` `Gin` `NestJS` `Spring Boot` `REST APIs` `gRPC` `GraphQL` `WebSockets` `tRPC` `OpenAPI / Swagger`
 
-### 🎮 Frontend Engine
-`React` `Next.js` `Vue.js` `TailwindCSS` `Framer Motion` `Three.js`
+### 🎮 Frontend & Full-Stack
+`React` `Next.js` `Vue.js` `Nuxt` `TailwindCSS` `Framer Motion` `Three.js` `HTML5` `CSS3` `Redux` `Zustand` `Vite`
 
-### 🤖 AI & Agents
-`AI Agents` `LLM Integrations` `Model Context Protocol (MCP)` `LangChain` `OpenAI / Anthropic APIs` `RAG` `Vector Databases` `VS Code Extensions` `Autonomous Agents`
+### 🤖 AI · Agents · Model Training
+`AI Agents` `LLM Integrations` `Model Context Protocol (MCP)` `LangChain` `LlamaIndex` `OpenAI / Anthropic / Groq APIs` `RAG` `Vector Databases` `Embeddings` `Fine-tuning` `LoRA / QLoRA` `Hugging Face` `PyTorch` `TensorFlow` `scikit-learn` `Jupyter` `VS Code Extensions` `Autonomous Agents` `Prompt Engineering` `Evaluation & Guardrails`
 
-### ☁️ Cloud & Infrastructure
-`AWS` `GCP` `Azure` `Kubernetes` `Docker` `Terraform` `CI/CD` `Microservices` `Istio` `Helm`
+### ☁️ Cloud · DevOps · Infrastructure
+`AWS` `GCP` `Azure` `Kubernetes` `Docker` `Terraform` `Ansible` `CI/CD` `GitHub Actions` `GitLab CI` `ArgoCD` `Helm` `Istio` `Nginx` `Traefik` `Prometheus` `Grafana` `ELK / OpenSearch` `Vault` `Consul` `Linux` `System Design` `Microservices` `Event-Driven Architecture`
 
-### 🗄 Databases & Storage
-`MongoDB` `PostgreSQL` `Redis` `Cassandra` `Elasticsearch` `Kafka` `S3` `Neo4j`
+### 🗄 Databases & Messaging
+`PostgreSQL` `MongoDB` `Redis` `Cassandra` `Elasticsearch` `Neo4j` `MySQL` `SQLite` `Kafka` `RabbitMQ` `NATS` `S3` `MinIO`
 
 ### 🔧 Tools & Platforms
-`Git` `Linux` `Nginx` `Prometheus` `Grafana` `GitHub Actions` `ArgoCD` `Vault` `Consul`
+`Git` `Linux` `VS Code` `Cursor` `Docker Compose` `Make` `Just` `Postman` `Insomnia` `Figma` `Notion`
 
 ---
 
 ## 📊 STATS
 
 ```bash
-AI Agents & MCP   ██████████ 96%
-System Design     ██████████ 94%
-Scalability       ██████████ 95%
-Problem Solving   ██████████ 97%
-Cloud Native      ██████████ 93%
-DevOps            ██████████ 91%
+AI Agents & MCP     ██████████ 96%
+System Architecture ██████████ 95%
+Backend Engineering ██████████ 94%
+Cloud & DevOps      ██████████ 93%
+Full-Stack          ██████████ 92%
+Model Training      ██████████ 90%
+Problem Solving     ██████████ 97%
 ```
 
 ---
@@ -78,17 +79,16 @@ DevOps            ██████████ 91%
 ## 🌐 CONTACT
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/missari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/missari" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" style="border-radius:50%;" />
   </a>
-  <a href="mailto:missariahil10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:missariahil10@gmail.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Gmail" style="border-radius:50%;" />
   </a>
-  <a href="https://wa.me/94721101001" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://github.com/missarii" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/94721101001" target="_blank" title="WhatsApp">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="48" height="48" alt="WhatsApp" style="border-radius:50%;" />
   </a>
 </p>
 
