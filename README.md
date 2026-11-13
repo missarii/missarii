@@ -1,35 +1,30 @@
 ![Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
 <h1 align="center">MISSARI</h1>
-<h3 align="center"> Co-Founder @ Daral Live | CTO @ Mi-Stack</h3>
-<h4 align="center">Architecting Scalable AI Systems & Cloud-Native Distributed Platforms</h4>
-
+<h3 align="center">Technology Entrepreneur | Software Architect | AI Systems Engineer</h3>
+<h4 align="center">Founder @ Heinrich AI & Mi-Stack | Co-Founder @ Daral Live</h4>
+<p align="center"><strong>AI Agents · MCP · Cloud & Distributed Systems</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=55&lines=Software-Architect.ts;%3E+Designing+Distributed+Systems;%3E+Engineering+Intelligent+Solutions;%3E+Shipping+Production-Ready+Software;%3E+Always+Building.+Always+Learning." alt="Developer Terminal Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=55&lines=Software-Architect.ts;%3E+Designing+Distributed+Systems;%3E+Engineering+Intelligent+Solutions;%3E+Building+AI+Agents+%26+MCP;%3E+Always+Building.+Always+Learning." alt="Developer Terminal Animation" />
 </p>
-
 
 ---
 
 ## 🕹 PLAYER PROFILE
 
 ```yaml
-
 Name: Missari Ahil 🌿
-Role: Software Architect ⚙️
+Role: Technology Entrepreneur · Software Architect · AI Systems Engineer
 Main Weapon: Keyboard ⌨️
 Operating System: Arch Linux 🐧
 Dominant Hand: Right-Handed Coder 🖱️
-Coding Motto: First, Make It Work. Then, Make It Scale 
+Coding Motto: First, Make It Work. Then, Make It Scale
 
 ‧˚🐾୭‧₊ᵎᵎ🍒⋅°✮ᵎᵎ⋆.°🦋⋆❅🦌*°⋆❥──★˙🎸̟!! ๋੭
-
 ```
 
-
 ---
-
 
 ## 🛠 TECH INVENTORY
 
@@ -53,6 +48,9 @@ Coding Motto: First, Make It Work. Then, Make It Scale
 ### 🎮 Frontend Engine
 `React` `Next.js` `Vue.js` `TailwindCSS` `Framer Motion` `Three.js`
 
+### 🤖 AI & Agents
+`AI Agents` `LLM Integrations` `Model Context Protocol (MCP)` `LangChain` `OpenAI / Anthropic APIs` `RAG` `Vector Databases` `VS Code Extensions` `Autonomous Agents`
+
 ### ☁️ Cloud & Infrastructure
 `AWS` `GCP` `Azure` `Kubernetes` `Docker` `Terraform` `CI/CD` `Microservices` `Istio` `Helm`
 
@@ -62,36 +60,36 @@ Coding Motto: First, Make It Work. Then, Make It Scale
 ### 🔧 Tools & Platforms
 `Git` `Linux` `Nginx` `Prometheus` `Grafana` `GitHub Actions` `ArgoCD` `Vault` `Consul`
 
-
 ---
 
 ## 📊 STATS
 
 ```bash
-AI Power        ██████████ 95%
-System Design   ██████████ 93%
-Scalability     ██████████ 96%
-Problem Solving ██████████ 97%
-Cloud Native    ██████████ 92%
-DevOps          ██████████ 90%
+AI Agents & MCP   ██████████ 96%
+System Design     ██████████ 94%
+Scalability       ██████████ 95%
+Problem Solving   ██████████ 97%
+Cloud Native      ██████████ 93%
+DevOps            ██████████ 91%
 ```
-
 
 ---
 
 ## 🌐 CONTACT
 
 <p align="center">
-  <a href="https://linkedin.com/in/missari">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/missari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:missariahil10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://wa.me/94721101001">
-    <img src="https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/94721101001" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://github.com/missarii" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
-
