@@ -90,7 +90,7 @@ Problem Solving         ██████████ 97%
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:missariahil10@gmail.com" title="Gmail">
-    <img src="assets/gmail-logo.png" width="72" height="72" alt="Gmail" />
+    <img src="assets/gmail-logo.png" width="80" height="80" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/94721101001" target="_blank" title="WhatsApp">
