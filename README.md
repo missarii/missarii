@@ -86,15 +86,15 @@ Problem Solving         ██████████ 97%
 
 <p align="center">
   <a href="https://www.linkedin.com/in/missari" target="_blank" title="LinkedIn">
-    <img src="assets/linkedin-logo.png" width="56" height="56" alt="LinkedIn" />
+    <img src="assets/linkedin-logo.png" width="72" height="72" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:missariahil10@gmail.com" title="Gmail">
-    <img src="assets/gmail-logo.png" width="56" height="56" alt="Gmail" />
+    <img src="assets/gmail-logo.png" width="72" height="72" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/94721101001" target="_blank" title="WhatsApp">
-    <img src="assets/whatsapp-logo.png" width="56" height="56" alt="WhatsApp" />
+    <img src="assets/whatsapp-logo.png" width="72" height="72" alt="WhatsApp" />
   </a>
 </p>
 
