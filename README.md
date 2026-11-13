@@ -1,6 +1,11 @@
 ![Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
-<h1 align="center">MISSARI</h1>
+<h1 align="center">
+  <img src="https://img.icons8.com/?size=100&id=2g2eqiqXbklO&format=png&color=000000" width="42" height="42" alt="star" />
+  &nbsp;MISSARI&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=2g2eqiqXbklO&format=png&color=000000" width="42" height="42" alt="star" />
+</h1>
+
 <h3 align="center">Technology Entrepreneur | Software Architect | AI Systems Engineer</h3>
 <h4 align="center">Founder @ Heinrich AI & Mi-Stack | Co-Founder @ Daral Live</h4>
 <p align="center"><strong>AI Agents · MCP · Cloud & Distributed Systems</strong></p>
@@ -79,38 +84,18 @@ Problem Solving         ██████████ 97%
 
 ## 🌐 CONTACT
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/missari" target="_blank" title="LinkedIn">
-    <img
-      src="https://img.icons8.com/?size=100&id=13930&format=png&color=ffffff"
-      width="54"
-      height="54"
-      alt="LinkedIn"
-      style="border-radius:50%; padding:12px; background:#0A66C2; border:2px solid #ffffff; box-shadow:0 4px 15px rgba(10,102,194,0.35);"
-    />
+    <img src="https://img.icons8.com/3d-sugary/100/linkedin.png" width="56" height="56" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:missariahil10@gmail.com" title="Email">
-    <img
-      src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=ffffff"
-      width="54"
-      height="54"
-      alt="Gmail"
-      style="border-radius:50%; padding:12px; background:#EA4335; border:2px solid #ffffff; box-shadow:0 4px 15px rgba(234,67,53,0.35);"
-    />
+  <a href="mailto:missariahil10@gmail.com" title="Gmail">
+    <img src="https://img.icons8.com/3d-sugary/100/gmail.png" width="56" height="56" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/94721101001" target="_blank" title="WhatsApp">
-    <img
-      src="https://img.icons8.com/?size=100&id=AltfLkFSP7XN&format=png&color=ffffff"
-      width="54"
-      height="54"
-      alt="WhatsApp"
-      style="border-radius:50%; padding:12px; background:#25D366; border:2px solid #ffffff; box-shadow:0 4px 15px rgba(37,211,102,0.35);"
-    />
+    <img src="https://img.icons8.com/3d-sugary/100/whatsapp.png" width="56" height="56" alt="WhatsApp" />
   </a>
 </p>
-
 
 ---
